@@ -4,3 +4,8 @@ data/z1 filter=lfs diff=lfs merge=lfs -text
 results/z1 filter=lfs diff=lfs merge=lfs -text
 results/z2 filter=lfs diff=lfs merge=lfs -text
 results/z3 filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+data/z1/sam3_pointscan_60N_fine_sparse_z0.h5 filter=lfs diff=lfs merge=lfs -text
+data/z2/sam3_pointscan_60N_fine_sparse_z0.h5 filter=lfs diff=lfs merge=lfs -text
+data/z3/sam3_pointscan_60N_fine_sparse_z0.h5 filter=lfs diff=lfs merge=lfs -text
